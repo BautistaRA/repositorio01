@@ -1,1 +1,6 @@
 contenido fichero3
+hola
+
+adios del todo
+
+readios
